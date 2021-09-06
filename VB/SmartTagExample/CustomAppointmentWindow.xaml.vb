@@ -14,14 +14,14 @@ Imports System.Windows.Shapes
 Imports DevExpress.Xpf.Ribbon
 
 Namespace SmartTagExample
-    ''' <summary>
-    ''' Interaction logic for CustomAppointmentWindow.xaml
-    ''' </summary>
-    Partial Public Class CustomAppointmentWindow
-        Inherits DXRibbonWindow
+	''' <summary>
+	''' Interaction logic for CustomAppointmentWindow.xaml
+	''' </summary>
+	Partial Public Class CustomAppointmentWindow
+		Inherits DXRibbonWindow
 
-        Public Sub New()
-            InitializeComponent()
-        End Sub
-    End Class
+		Public Sub New()
+			InitializeComponent()
+		End Sub
+	End Class
 End Namespace
